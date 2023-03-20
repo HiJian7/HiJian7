@@ -20,4 +20,4 @@
 
 <h4 align="center">访客数 :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Hunlongyu}/count.svg" alt="hunlongyu :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{HiJian}/count.svg" alt="Jian :: Visitor's Count" /></p>
