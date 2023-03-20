@@ -16,7 +16,7 @@
 * 一个软件推荐博主
 
  ![chrome](https://img.shields.io/badge/-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=ffffff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
 
 <h4 align="center">访客数 :eyes:</h4>
 
